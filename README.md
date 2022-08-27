@@ -3,7 +3,9 @@ En este proyecto tomamos una base de datos anime y se analizan estadísticamente
 
 
 
-**Integrantes**
+**Integrantes**:
+
+
 Stefanny Escobar Ramírez
 
 
